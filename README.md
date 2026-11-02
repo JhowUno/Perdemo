@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/u/0/drive-viewer/AKGpihaZI2_d3ih9pzc8XczyNLavgmBTojyAMlAtEiP8SrziSlGn_kU8yIGkUVr5o2oL0E4vISsyP2H2HjhS6sxGi4rMPCA-I6LnoCg=s1600-rw-v1?auditContext=forDisplay" alt="Perdemo" width="160" />
+  <img width="160" alt="Perdemo" src="https://github.com/user-attachments/assets/c936e520-249e-47b3-9d78-c691d8958e27" />
 </p>
 
 <h1 align="center">Perdemo</h1>
