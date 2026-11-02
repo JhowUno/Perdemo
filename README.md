@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/LGS/Assets/Perdemo.png" alt="Perdemo" width="160" />
+  <img src="https://drive.google.com/file/d/1gNHV1ef8vT-m-kI-ErcKWxvNbx1TTflw/view?usp=sharing" alt="Perdemo" width="160" />
 </p>
 
 <h1 align="center">Perdemo</h1>
