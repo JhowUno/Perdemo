@@ -30,6 +30,8 @@
 
 🕵️ **Segredos**: o Perdemo esconde algumas surpresas. Boa sorte para encontrar todas!
 
+<img width="1400" height="900" alt="a_after_enter_switch" src="https://github.com/user-attachments/assets/a5ba77d6-d646-4441-ba5e-94a85d989b09" />
+
 ## Como começar
 
 1. Baixe o `Perdemo.exe` na página de [versões](https://github.com/JhowUno/Perdemo/releases).
