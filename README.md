@@ -30,7 +30,9 @@
 
 🕵️ **Segredos**: o Perdemo esconde algumas surpresas. Boa sorte para encontrar todas!
 
-<img width="1320" height="800" alt="pingA" src="https://github.com/user-attachments/assets/41448de3-4660-418d-be49-b1309eaa03d1" />
+<p align="center">
+  <img width="1320" height="800" alt="pingA" src="https://github.com/user-attachments/assets/41448de3-4660-418d-be49-b1309eaa03d1" />
+</p>
 
 ## Como começar
 
@@ -60,8 +62,11 @@ O Perdemo avisa quando sai uma versão nova e se atualiza sozinho.
 
 ## Solução de problemas
 
-Erro: "O CONTROLE INTELIGENTE DE APLICATIVOS BLOQUEOU UM APLICATIVO QUE PODE NÃO SER SEGURO"
-<img width="1236" height="864" alt="Gemini_Generated_Image_aoqctraoqctraoqc" src="https://github.com/user-attachments/assets/e907afd2-2b9e-491f-96d7-b90d8ffb0af5" />
+<p align="center">
+  Erro: O controle inteligente de aplicativos bloqueou um aplicativo que pode não ser seguro
+  <img width="500" alt="Gemini_Generated_Image_aoqctraoqctraoqc" src="https://github.com/user-attachments/assets/264f9a74-47db-4e6a-81f5-cf0374fb86e3" />
+</p>
+
 Você precisa desativar temporariamente ou permanentemente o Controle Inteligente de Aplicativos (Smart App Control) nas configurações do sistema.
 1. Clique no Menu Iniciar do Windows.
 2. Digite Segurança do Windows e abra o aplicativo.
@@ -69,8 +74,13 @@ Você precisa desativar temporariamente ou permanentemente o Controle Inteligent
 4. Procure e clique em Configurações do controle inteligente de aplicativos.
 5. Marque a opção Desativado.
 6. Feche a janela e tente abrir ou instalar o aplicativo novamente (se necessário, reinicie o computador)
-<img width="1680" height="637" alt="Gemini_Generated_Image_3wcgon3wcgon3wcg" src="https://github.com/user-attachments/assets/ff6f5e52-3f1a-4e65-a4fa-090cca478194" />
-Se a opção desativar estiver indisponível, apresentando a mensagem: "ESSA CONFIGURAÇÃO É GERENCIADA PELO CONTROLE INTELIGENTE DE APLICATIVOS", é necessário desativar através do Registro do Windows:
+
+<p align="center">
+  Se a opção desativar estiver indisponível, apresentando a mensagem: "Essa configuração é gerenciada pelo controle inteligente de aplicativos"
+  <img width="500" alt="Gemini_Generated_Image_3wcgon3wcgon3wcg" src="https://github.com/user-attachments/assets/566b90f6-8895-4b22-9db5-aef89958fb42" />
+</p>
+
+É necessário desativar através do Registro do Windows:
 1. No seu teclado, pressione as teclas Windows + R para abrir a caixa "Executar".
 2. Digite regedit e pressione Enter (clique em "Sim" se o Windows pedir permissão de administrador).
 3. Na barra de endereços do topo do Editor do Registro, copie, cole o seguinte caminho e aperte Enter: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\CI\Policy
