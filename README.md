@@ -30,7 +30,7 @@
 
 🕵️ **Segredos**: o Perdemo esconde algumas surpresas. Boa sorte para encontrar todas!
 
-<img width="1400" height="900" alt="a_after_enter_switch" src="https://github.com/user-attachments/assets/a5ba77d6-d646-4441-ba5e-94a85d989b09" />
+<img width="1320" height="800" alt="pingA" src="https://github.com/user-attachments/assets/41448de3-4660-418d-be49-b1309eaa03d1" />
 
 ## Como começar
 
@@ -57,6 +57,29 @@ O Perdemo avisa quando sai uma versão nova e se atualiza sozinho.
 
 - Windows 10 ou 11 (64 bits)
 - Microfone e fone de ouvido (recomendado)
+
+## Solução de problemas
+
+Erro: "O CONTROLE INTELIGENTE DE APLICATIVOS BLOQUEOU UM APLICATIVO QUE PODE NÃO SER SEGURO"
+<img width="1236" height="864" alt="Gemini_Generated_Image_aoqctraoqctraoqc" src="https://github.com/user-attachments/assets/e907afd2-2b9e-491f-96d7-b90d8ffb0af5" />
+Você precisa desativar temporariamente ou permanentemente o Controle Inteligente de Aplicativos (Smart App Control) nas configurações do sistema.
+1. Clique no Menu Iniciar do Windows.
+2. Digite Segurança do Windows e abra o aplicativo.
+3. No menu lateral esquerdo, clique em Controle de aplicativos e do navegador.
+4. Procure e clique em Configurações do controle inteligente de aplicativos.
+5. Marque a opção Desativado.
+6. Feche a janela e tente abrir ou instalar o aplicativo novamente (se necessário, reinicie o computador)
+<img width="1680" height="637" alt="Gemini_Generated_Image_3wcgon3wcgon3wcg" src="https://github.com/user-attachments/assets/ff6f5e52-3f1a-4e65-a4fa-090cca478194" />
+Se a opção desativar estiver indisponível, apresentando a mensagem: "ESSA CONFIGURAÇÃO É GERENCIADA PELO CONTROLE INTELIGENTE DE APLICATIVOS", é necessário desativar através do Registro do Windows:
+1. No seu teclado, pressione as teclas Windows + R para abrir a caixa "Executar".
+2. Digite regedit e pressione Enter (clique em "Sim" se o Windows pedir permissão de administrador).
+3. Na barra de endereços do topo do Editor do Registro, copie, cole o seguinte caminho e aperte Enter: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\CI\Policy
+4. No lado direito da janela, procure por um valor chamado VerifiedAndReputablePolicyState.
+5. Dê dois cliques rápidos em cima dele.
+6. No campo "Dados do valor", mude o número atual para 0 (zero) e certifique-se de que a base está em Hexadecimal.
+7. Clique em OK.
+8. Reinicie o seu computador para que a alteração tenha efeito.
+Após reiniciar, o Controle Inteligente de Aplicativos estará completamente desligado, permitindo que você abra o programa bloqueado.
 
 ## Feito por
 
