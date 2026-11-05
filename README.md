@@ -64,6 +64,7 @@ O Perdemo avisa quando sai uma versão nova e se atualiza sozinho.
 
 <p align="center">
   Erro: O controle inteligente de aplicativos bloqueou um aplicativo que pode não ser seguro
+  
   <img width="500" alt="Gemini_Generated_Image_aoqctraoqctraoqc" src="https://github.com/user-attachments/assets/264f9a74-47db-4e6a-81f5-cf0374fb86e3" />
 </p>
 
@@ -77,6 +78,7 @@ Você precisa desativar temporariamente ou permanentemente o Controle Inteligent
 
 <p align="center">
   Se a opção desativar estiver indisponível, apresentando a mensagem: "Essa configuração é gerenciada pelo controle inteligente de aplicativos"
+  
   <img width="500" alt="Gemini_Generated_Image_3wcgon3wcgon3wcg" src="https://github.com/user-attachments/assets/566b90f6-8895-4b22-9db5-aef89958fb42" />
 </p>
 
